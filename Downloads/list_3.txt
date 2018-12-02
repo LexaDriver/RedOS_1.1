@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/lib/core/boot.lua
