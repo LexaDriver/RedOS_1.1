@@ -13,3 +13,7 @@ insert them from buffer.
   To open System menu use 2.
 In System you can shut and reboot computer or
 return to shell.
+
+  If you want to install RedOS by floppy, please
+copy all folders from /ISO to floppy, and use
+like installation floppy. 
