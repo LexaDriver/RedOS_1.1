@@ -1,0 +1,15 @@
+RedOS 1.1 by LexaDriver
+
+  How to use ?
+
+  Cursor - use arrows to move position of Curosr 
+and switch pages. Use Enter to select positon.
+Use Backspace to leave folder.
+
+  To open Editor menu use 1.
+In Editor you can create files and folders, and
+insert them from buffer.
+  
+  To open System menu use 2.
+In System you can shut and reboot computer or
+return to shell.
