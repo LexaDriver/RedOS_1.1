@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/lib/cursor.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/lib/fileList.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/lib/menuChoice.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/lib/menuEditor.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/lib/menuFile.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/lib/menuFolder.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/lib/menuSystem.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/lib/screenBuffer.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/lib/specialShell.lua
