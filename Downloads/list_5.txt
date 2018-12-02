@@ -1,0 +1,12 @@
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/RedOS/choice.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/RedOS/copy_1.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/RedOS/copy_2.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/RedOS/copy_3.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/RedOS/copy_4.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/RedOS/core.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/RedOS/editor.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/RedOS/file.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/RedOS/folder.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/RedOS/info.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/RedOS/system.lua;
+https://raw.githubusercontent.com/LexaDriver/RedOS_1.1/master/RedOS/workspace.lua
